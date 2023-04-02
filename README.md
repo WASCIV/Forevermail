@@ -5,15 +5,45 @@
 
 Temporary Mail Bot is a Telegram bot that allows you to create temporary emails and receive emails in them. This bot is useful when you need to register for online services and don't want to give out your personal email address.
 
-## How to use the this Telegram Bot ?
+## How to use the this Telegram Bot in Windows?
 
-1. First of create a Bot from @Botfather 
+1. First of create a Bot from @Botfather and I Assume you have an Account on Telegram
 
 2. Name it and give it username as it asks
 
 3. It will give you a Bot Token (Something like this 1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE
 
-4. Copy the Bot Token and Paste it 
+4. Make sure to install pip
+
+## HOW TO INSTALL PIP
+
+o install pip on Windows, follow these steps:
+
+    Download the get-pip.py file from the official Python website: https://bootstrap.pypa.io/get-pip.py
+
+    Open a command prompt by pressing the Windows key and typing "cmd", then clicking on the "Command Prompt" app.
+
+    Navigate to the directory where you saved the get-pip.py file using the cd command. For example, if you saved the file to your Downloads folder, type:
+
+    bash
+
+``` cd Downloads ```
+
+Run the following command to install pip:
+
+``` python get-pip.py ```
+
+If you have multiple versions of Python installed on your system, you may need to specify the version of Python you want to use.
+
+ ```python3 get-pip.py ```
+
+After pip is installed, you can use it to install Python packages by typing pip install <package-name> in the command prompt. For example:
+
+   ``` pip install requests ```
+
+That's it!
+
+5. Copy the Bot Token and Paste it 
 
 ```python
 _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN' You should paste your own..
