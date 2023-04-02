@@ -17,7 +17,7 @@ _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN
 5. 
 ## Screenshots
 
-![Screenshot 1](screenshots/https://imgur.com/a/9uIbS9J)
+![Screenshot 1](https://imgur.com/EHm2s5K)
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
 
