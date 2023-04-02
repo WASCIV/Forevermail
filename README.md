@@ -28,7 +28,7 @@ _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN
 
 8. But if you want to use for personal use you can just run the script on your PC..
 
-9. Finally run python tempmail.py
+9. Finally run ``` python tempmail.py ```
 
 ## Screenshots
 
