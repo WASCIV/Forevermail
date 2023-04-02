@@ -127,6 +127,11 @@ _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN
            /start- It will welcome you 
 ```
 
+## Video Tutorial On How to Use ?
+
+https://youtu.be/HqSVxZ-SGzo
+
+
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.jpg)
