@@ -1,7 +1,7 @@
 # Forever Temporary Mail Bot
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/Temporary-Mail-Bot)](https://github.com/WASCIV/Forevermail/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/Temporary-Mail-Bot)](https://github.com/WASCIV/Forevermail/stargazers)
+[![GitHub license](https://img.shields.io/github/license/WASCIV/Forevermail)](https://github.com/WASCIV/Forevermail/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/WASCIV/Forevermail)](https://github.com/WASCIV/Forevermail/stargazers)
 
 Temporary Mail Bot is a Telegram bot that allows you to create temporary emails and receive emails in them. This bot is useful when you need to register for online services and don't want to give out your personal email address.
 
