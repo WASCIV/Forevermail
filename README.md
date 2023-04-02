@@ -30,6 +30,12 @@ _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN
 
 9. Finally run ``` python tempmail.py ```
 
+
+``` Usage: /getmail- To get a new email address
+           /fetchmail- To fetch mails from the address
+           /start- It will welcome you 
+```
+
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.jpg)
