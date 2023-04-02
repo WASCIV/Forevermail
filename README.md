@@ -20,7 +20,7 @@ _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN
 
 ```
 
-5. Make sure to run pip install -r requirements.txt
+5. Make sure to run ``` pip install -r requirements.txt ```
 
 6. Keep the terminal running as it should so the bot remains running.
 
