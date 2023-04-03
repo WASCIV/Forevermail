@@ -3,7 +3,7 @@ from telegram import Update as _C
 import base64 as _b64
 from telegram.ext import Updater as _D, CommandHandler as _E, CallbackContext as _F
 
-_G = 'YOUR_BOT_TOKEN'
+_G = '6127129179:AAGxr-0cr0CO7JK9B298WkL1AFoKcLbDsrU'
 _A.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=_A.INFO)
 _H = _A.getLogger(__name__)
 _I = "https://www.1secmail.com/api/v1/"
